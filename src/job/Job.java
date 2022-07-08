@@ -1,0 +1,5 @@
+package job;
+
+public enum Job {
+    JAVA_DEVELOPER, SCALA_DEVELOPER, KOTLIN_DEVELOPER, GROOVY_DEVELOPER
+}
